@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MiproyectoGit</string>
 
-    <string name="hello_world">subeme a GitHub</string>
+    <string name="hello_world">modificacion</string>
     <string name="action_settings">Settings</string>
+    <string name="butom">New Button</string>
 </resources>
